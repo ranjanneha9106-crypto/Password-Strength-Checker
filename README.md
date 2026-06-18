@@ -1,4 +1,4 @@
-# Cybersecurity Learning Portfolio
+# Cybersecurity Learning
 
 This repository contains beginner cybersecurity projects created while learning cybersecurity fundamentals and Python programming.
 
@@ -25,10 +25,6 @@ This tool scans a target system and identifies open ports.
 - Cybersecurity Fundamentals
 - Network Security Basics
 - Problem Solving
-
-## Certifications
-- Cisco Introduction to Cybersecurity
-- Cisco Verified Digital Badge (Credly)
 
 ## Author
 Neha Ranjan
